@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Ilya, aka sedmant.</h1>
+<h3 align="center">I am a student who has tried several dozen programming languages and does not know any of them well.</h3>
 
-<!--
-**sedmant/sedmant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've always been passionate about computers and programming. I am currently learning **[Python](https://github.com/python/cpython)**, **[Django](https://github.com/django/django)** and a few other things related to web development in order to have at least some tools that I would know well and that I could rely on. 
 
-Here are some ideas to get you started:
+<p align="center">
+   Fun fact: I still haven't learned English.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <img src=https://github-readme-stats.vercel.app/api?username=sedmant&count_private=true&theme=radical&show_icons=true alt="GitHub Profile Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedmant&layout=compact&card_width=445&theme=radical" alt="GitHub Top Languages"/>
+</p>
